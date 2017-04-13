@@ -27,4 +27,4 @@ To increase speed you can use a cloud based GPU such as www.fomoro.com
 ## Credits
 
 Credit for the vast majority of code here goes to [Yoav Zimmerman](https://github.com/yoavz).
-My only addition was a code wrapper. The main use for me of this project is as a proof of concept.
+My only addition was a code wrapper. The main use of this project is as a proof of concept for RNN.
