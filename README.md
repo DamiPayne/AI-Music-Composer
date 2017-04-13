@@ -6,11 +6,12 @@ Numpy (http://www.numpy.org/)
 Tensorflow (https://github.com/tensorflow/tensorflow)
 Python Midi (https://github.com/vishnubob/python-midi.git)
 Mingus (https://github.com/bspaans/python-mingus)
-Matplotlib
+Matplotlib (https://github.com/matplotlib/matplotlib)
 
 ## How to use it?
+
 1. `mkdir data && mkdir models`
-2. run 'python main.py'. This will collect the data, create the chord mapping file in data/nottingham.pickle, and train the model
+2. run `python main.py`. This will collect the data, create the chord mapping file in data/nottingham.pickle, and train the model
 3. Run `python rnn_sample.py --config_file new_config_file.config` to generate a new MIDI song.
 
 Give it 1-2 hours to train on your local machine, then generate the new song. 
