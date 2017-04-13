@@ -3,9 +3,13 @@ A project that trains a LSTM recurrent neural network over a data-set of MIDI fi
 
 ## Dependencies
 Numpy (http://www.numpy.org/)
+
 Tensorflow (https://github.com/tensorflow/tensorflow)
+
 Python Midi (https://github.com/vishnubob/python-midi.git)
+
 Mingus (https://github.com/bspaans/python-mingus)
+
 Matplotlib (https://github.com/matplotlib/matplotlib)
 
 ## How to use it?
