@@ -4,7 +4,9 @@ A project that trains a LSTM recurrent neural network over a data-set of MIDI fi
 ## Dependencies
 Numpy (http://www.numpy.org/)
 
-Tensorflow (https://github.com/tensorflow/tensorflow)
+Tensorflow 0.8 (https://github.com/tensorflow/tensorflow) its best to uses virtual env to do this
+
+virtual env (https://virtualenv.pypa.io/en/stable/)
 
 Python Midi (https://github.com/vishnubob/python-midi.git)
 
